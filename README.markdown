@@ -70,9 +70,6 @@ A simple Python application built with Tkinter that allows users to save encrypt
 ## Contributing
 Feel free to fork this repository, submit issues, or create pull requests to improve the application. Suggestions for enhancing security, adding features, or improving the UI are welcome!
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 - Built with [Python](https://www.python.org/) and [Tkinter](https://docs.python.org/3/library/tkinter.html).
 - Inspired by the need for a simple, user-friendly note encryption tool.
